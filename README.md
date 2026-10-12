@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola! Soy Aaron 👋
 
-<!--
-**aaronlopezleal/aaronlopezleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de último curso de **Ingeniería Informática** en la **Universidad de Sevilla**, con mención en **Sistemas de Información**.
 
-Here are some ideas to get you started:
+💻 Me interesan el **desarrollo de software**, la **ingeniería de datos**, la **automatización** y la **inteligencia artificial aplicada**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Me motiva construir soluciones tecnológicas útiles, comprender cómo funcionan los sistemas y seguir desarrollándome como ingeniero.
+
+## Proyecto destacado
+
+### [Juego de la Vida de Conway — Computación paralela](https://github.com/aaronlopezleal/ASD-JuegoVida-L6G3)
+
+Proyecto académico realizado en equipo, centrado en la optimización de una simulación, la comparación de distintas implementaciones y el análisis de rendimiento.
+
+## Actualmente
+
+- Finalizando el Grado en Ingeniería Informática.
+- Buscando mi primera experiencia profesional mediante **prácticas técnicas**.
+- Interesado en aprender y participar en proyectos reales de software, datos y automatización.
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/aaronlopezleal)
